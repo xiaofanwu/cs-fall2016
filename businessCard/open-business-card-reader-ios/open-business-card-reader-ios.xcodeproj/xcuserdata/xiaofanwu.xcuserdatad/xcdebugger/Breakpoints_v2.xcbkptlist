@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+            timestampString = "503437572.132766"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "-fetchUpdatesForCardIdentifiers:success:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+            timestampString = "503437575.324194"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "-submitCardWithFrontImage:andBackImage:andParameters:success:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+            timestampString = "503437575.801992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "-submitCardWithFrontImage:andBackImage:andParameters:success:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+            timestampString = "503437651.867019"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "-fetchUpdatesForCardIdentifiers:success:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+            timestampString = "503437653.401562"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "-fetchUpdatesForCardIdentifiers:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__69-[FCCardReaderHelper fetchUpdatesForCardIdentifiers:success:failure:]_block_invoke_2"
+                  moduleName = "open-business-card-reader-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiaofanwu/Desktop/schoolwork/open-business-card-reader-ios/open-business-card-reader-ios/open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+                  timestampString = "503443632.25954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__69-[FCCardReaderHelper fetchUpdatesForCardIdentifiers:success:failure:]_block_invoke_3"
+                  moduleName = "open-business-card-reader-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiaofanwu/Desktop/schoolwork/open-business-card-reader-ios/open-business-card-reader-ios/open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+                  timestampString = "503443632.263002"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+            timestampString = "503437654.311118"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "-fetchUpdatesForCardIdentifiers:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FCCardReaderHelper fetchUpdatesForCardIdentifiers:success:failure:]"
+                  moduleName = "open-business-card-reader-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiaofanwu/Desktop/schoolwork/open-business-card-reader-ios/open-business-card-reader-ios/open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+                  timestampString = "503443632.268167"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "1679">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__69-[FCCardReaderHelper fetchUpdatesForCardIdentifiers:success:failure:]_block_invoke.136"
+                  moduleName = "open-business-card-reader-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiaofanwu/Desktop/schoolwork/open-business-card-reader-ios/open-business-card-reader-ios/open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+                  timestampString = "503443632.271297"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+            timestampString = "503437654.814677"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "-fetchUpdatesForCardIdentifiers:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FCCardReaderHelper fetchUpdatesForCardIdentifiers:success:failure:]"
+                  moduleName = "open-business-card-reader-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiaofanwu/Desktop/schoolwork/open-business-card-reader-ios/open-business-card-reader-ios/open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+                  timestampString = "503443632.276596"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1365">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FCCardReaderHelper fetchUpdatesForCardIdentifiers:success:failure:]"
+                  moduleName = "open-business-card-reader-ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiaofanwu/Desktop/schoolwork/open-business-card-reader-ios/open-business-card-reader-ios/open-business-card-reader-ios/Code/Helpers/FCCardReaderHelper.m"
+                  timestampString = "503443632.279773"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
